@@ -1,0 +1,8 @@
+---
+title:
+layout: default
+permalink: /CV/
+published: true
+---
+
+<embed src="/assets/documents/cv_github.pdf" type="application/pdf" />
